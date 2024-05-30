@@ -5,7 +5,7 @@ import java.util.HashMap;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import com.playwright.saucedemo.pages.HomePage;
-import com.playwright.saucedemo.utils.DataProviders;
+import com.playwright.saucedemo.utility.DataProviders;
 
 public class ValidLoginTest extends Hooks {
 
